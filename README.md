@@ -1,5 +1,6 @@
 # Trump Card Detection Model
 
+* computer vision
 
 * Yoluv5모델 사용
 
